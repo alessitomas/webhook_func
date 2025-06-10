@@ -1,4 +1,4 @@
-# Webhook Server Funcional com Suave (F#)
+# Webhook Server Funcional (F#)
 
 Este projeto demonstra **como desenvolver um servidor de webhook** em F#, utilizando o framework [Suave](https://suave.io/). O objetivo é processar webhooks de forma **assíncrona**, validar payloads recebidos e realizar **callbacks HTTP** para confirmação ou cancelamento de transações.
 
