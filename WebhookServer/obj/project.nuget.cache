@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgclXb8+2q4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alema\\OneDrive\\Documentos\\insper\\7sem\\webhookG\\WebhookServer\\WebhookServer.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alema\\.nuget\\packages\\fsharp.core\\9.0.202\\fsharp.core.9.0.202.nupkg.sha512",
+    "C:\\Users\\alema\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\alema\\.nuget\\packages\\suave\\2.6.0\\suave.2.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
