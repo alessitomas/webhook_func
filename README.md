@@ -46,14 +46,14 @@ Um servidor auxiliar escrito com **FastAPI** roda localmente e oferece endpoints
 
 ```bash
 # Crie o ambiente
-python -m venv env
+python3 -m venv env
 source env/bin/activate  # ou env\Scripts\activate no Windows
 
 # Instale as dependências
-pip install fastapi uvicorn requests
+pip -r requirements.txt
 
 # Rode o servidor auxiliar
-python test_webhook.py
+python3 test_webhook.py
 ```
 
 ---
